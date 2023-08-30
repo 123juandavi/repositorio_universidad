@@ -1,5 +1,3 @@
-repositorio universidad
-
 CREATE DATABASE IF NOT EXISTS db_universidad;
 USE db_universidad;
 
